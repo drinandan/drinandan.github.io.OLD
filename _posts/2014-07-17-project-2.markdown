@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: cake.png
-label: English Dialect Translation <br>(Shallow Neural Network)
+label: English dialect translation between British and American English <br>(Shallow Neural Network).
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

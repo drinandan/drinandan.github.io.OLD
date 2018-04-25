@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: cabin.png
-label: Gender Wage Disparity in Seattle
+label: Is there a gender bias in compensation City of Seattle employees?
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
